@@ -1,0 +1,2 @@
+Basic Concepts: Read Bioinformatics for Dummies by Jean-Michel Claverie and Cedric Notredame. Explore online resources and tutorials (e.g., Khan Academy, Coursera
+Basic Biology:Review fundamental concepts in biology: DNA, RNA, proteins, and genetics.Use resources like Molecular Biology of the Cell by Alberts et al. or Khan Academy.Introduction to Databases:Learn about major biological databases: NCBI, EMBL-EBI, and DDBJPractice basic searches and data retrieval.
